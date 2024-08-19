@@ -13,10 +13,10 @@ const footer_content = {
   contact_us: (
     <>
       {" "}
-      Write us at : <span>admin@zolara.live</span>
+      Write us at : <span>sales@cabledeal.live</span>
     </>
   ),
-  mail: "admin@zolara.live",
+  mail: "sales@cabledeal.live",
   contact_text: "Call for Consultation!",
   phone: "+1 (863) 268-5598",
   info: (
@@ -30,11 +30,11 @@ Zolara Tech LLC
 Mail us at: 215 Debbie Ann Ct, Auburndale, FL 33823<br />
     </>
   ),
-  mail_2: "admin@zolara.live",
+  mail_2: "sales@cabledeal.live",
   mail_phone: (
     <>
       {" "}
-      Write us at : admin@zolara.live<br />Call us at : +1 (863) 268-5598
+      Write us at : sales@cabledeal.live <br />Call us at : +1 (863) 268-5598
     </>
   ),
 
@@ -82,7 +82,7 @@ const Footer = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6">
                     <div className="tp-footer-top-contact">
-                      <a href="mailto:admin@zolara.live" >{contact_us}</a>
+                      <a href="mailto:sales@cabledeal.live" >{contact_us}</a>
                     </div>
                   </div>
                   <div className="col-lg-6">
